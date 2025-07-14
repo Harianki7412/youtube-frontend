@@ -44,7 +44,6 @@ This project functions as the client-side interface for a comprehensive full-sta
 
 ### 4.2 Installation
 
-## Clone the repository:
 
 ## Install dependencies:
 
@@ -77,7 +76,7 @@ This project functions as the client-side interface for a comprehensive full-sta
 
 ### 6 Installation
 
-Clone the repository:
+## Clone the repository:
 
-#git clone [https://github.com/your-username/youtube-clone-frontend.git](https://github.com/your-username/youtube-clone-frontend.git)#
-cd youtube-clone-frontend
+#git clone (`https://github.com/Harianki7412/youtube-frontend.git`)
+cd youtube-frontend
