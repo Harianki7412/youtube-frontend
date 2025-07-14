@@ -78,5 +78,5 @@ This project functions as the client-side interface for a comprehensive full-sta
 
 ## Clone the repository:
 
-#git clone (`https://github.com/Harianki7412/youtube-frontend.git`)
-cd youtube-frontend
+# git clone (`https://github.com/Harianki7412/youtube-frontend.git`)
+`cd youtube-frontend`
