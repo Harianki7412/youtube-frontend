@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://youtube-backend-u5iw.onrender.com',
+  baseURL: 'https://youtube-backend-u5iw.onrender.com/api',
 });
 
 api.interceptors.request.use(
